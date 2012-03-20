@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>D'square</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">D'square</a></p>
+				<p><em>2010</em></p>
+				<p><em class="background">&ndash; Collaborative learning space for designers in India.</em></p>
+				<br />
+				<p>D’square is  a collaborative space for both synchronous and as well as asynchronous design learning. The same platform could be used to create problem solving topics with both the teacher to students, students to students and teachers to other teachers being able to interact collaboratively.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Interaction Design, Software Development.</p>
+
+<p><b>skills:</b> Interviews, Wireframing, PHP, MySQL, Wordpress-core.</p>
+
+<p><a href="http://dquare.in" target="new">Access it here.</a></p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): bd709d9e2c3f60538ed4770702a2eade -->

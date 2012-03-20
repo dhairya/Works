@@ -1,0 +1,26 @@
+title: FoodGenie
+-
+date: 2011
+-
+content: 
+FoodGenie is an iPhone app that gives everyone a chance to become a super chef and helps your neighbours in cooking. It helps ordinary people make extraordinary dishes with what you have in the fridge. When there is a really important ingredient missing, it helps you find that missing ingredient by encouraging sharing of ingredients between neighbors.
+
+<br />
+
+<b>role:</b> Service Design, Rapid Prototyping, Video Production
+
+<b>skills:</b> Wireframing, Illustrator, iOS Mockups, Story boarding.
+
+<br />
+
+<b>+</b> Highly acclaimed at the Global Service Jam 2011.
+
+<b>+</b> Created in a 48 hour service design marathon.
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/2dm__PHSvns?rel=0" title="FoodGenie"><img src="@root_path/public/images/v4.jpg" width="90" /></a>
+-
+keywords: Social cooking and food sharing app.

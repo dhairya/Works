@@ -1,0 +1,30 @@
+title: About | CV | Contact
+-
+date: 1989-
+-
+content: 
+I like to create art, products and technologies that reimagine our relationship with the digital, address social issues - education, community development and often my own random explorations. 
+
+I dream, 
+I am ever-curious, 
+I collect experiences. 
+
+I am a designer and an engineer, I use these two view-points interchangeably to see and create the world through my pink glasses. 
+
+<i>joie de vivre!</i>
+
+<br />
+
+<b>contact:</b> hello AT dhairyadand.com, 0065 8421 8301
+
+<br />
+
+<b>download:</b> <a href="http://dhairyadand.com/dhairya_dand_resume.pdf" target="new">CV</a>, <a href="http://dhairyadand.com/dhairya_dand_portfolio.pdf" target="new">Portfolio</a>
+
+<br />
+
+<b>elsewhere:</b> <a href="http://linkedin.com/in/dhairyadand" target="new"><img src="@root_path/public/images/linkedin.ico" /></a>, <a href="http://twitter.com/3dee" target="new"><img src="@root_path/public/images/twitter.ico" /></a><!-- , <a href="http://www.facebook.com/dhairya" target="new"><img src="@root_path/public/images/facebook.ico" /></a>, <a href="http://picasaweb.google.com/dhairyadand" target="new"><img src="@root_path/public/images/picasa.ico" /></a>-->
+
+
+-
+keywords: Making humans super.

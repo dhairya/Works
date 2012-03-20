@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Tekla</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Tekla</a></p>
+				<p><em>2009</em></p>
+				<p><em class="background">&ndash; Enabling smartphone access through wheelchair controls.</em></p>
+				<br />
+				<p>Autistic users are most accustomed to maneuver using the wheelchair joystick. Instead of providing a new hardware interface which would add to the learning curve and slow down the interactions, Tekla aims at making the Android device accessible as much as possible by using the wheelchair joysticks.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Research, Interaction Design.</p>
+
+<p><b>skills:</b> Android SDK.</p>
+
+<p><br /></p>
+
+<p><a href="https://market.android.com/details?id=ca.idi.tekla&hl=en" target="new">Tekla App for Android</a> (Developed by IDRC)</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): d0710d65fa149141e4a376a76af25fbe -->

@@ -1,0 +1,19 @@
+title: D'square
+-
+date: 2010
+-
+content: 
+D’square is  a collaborative space for both synchronous and as well as asynchronous design learning. The same platform could be used to create problem solving topics with both the teacher to students, students to students and teachers to other teachers being able to interact collaboratively. 
+
+<br />
+
+<b>role:</b> Conceptualization, Interaction Design, Software Development. 
+
+<b>skills:</b> Interviews, Wireframing, PHP, MySQL, Wordpress-core. 
+
+<br />
+
+<a href="http://www.d-source.net/ekalpa/" target="new">Access it here.</a>
+
+-
+keywords: Collaborative learning space for designers in India.

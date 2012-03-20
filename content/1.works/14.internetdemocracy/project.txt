@@ -1,0 +1,15 @@
+title: Internet & Democracy
+-
+date: 2009
+-
+content: 
+This project is an initiative to examines how the Internet influences democratic norms and modes, including its impact on civil society, citizen media, government transparency and the rule of law. We scrape the Iranian blogosphere, translate and tokenize nouns and adjectives hence depicting emotions towards people, events and ideologies. I authored the Scriptgen GUI, and the Krippendorf's alpha reliability constant for textual data. 
+
+<br />
+
+<b>role:</b> Research, Software Development. 
+
+<b>skills:</b> Ruby on Rails, R, Amazon Mechanical Turks API. 
+
+-
+keywords: How internet affects democracy in the Iranian blogosphere.

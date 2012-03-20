@@ -1,0 +1,22 @@
+title: Lovotics
+-
+date: 2011
+-
+content: 
+Lovotics is a new life-form which develops emotions towards humans with every subsequent interaction. It can identify humans, sense touch intensity and type, understand the emotional context of speech, is mobile, gives audio and light output and has memory of past interactions. 
+
+<br />
+
+<b>role:</b> System Integration, Hardware and Software Development. 
+
+<b>skills:</b> SoC development, programmatic audio analysis, Python. 
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/iq_USTBgeZY?rel=0&amp;hd=1" title="Lovotics Episode 1"><img src="@root_path/public/images/v7.jpg" width="90" /></a> &nbsp;<a class='video-colorbox' href="http://www.youtube.com/embed/m5LWB9K0VRY?rel=0&amp;hd=1" title="Lovotics Episode 2"><img src="@root_path/public/images/v8.jpg" width="90" /></a>
+
+
+-
+keywords: A new artificial life-form to enhance human-robot love.

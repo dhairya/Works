@@ -1,0 +1,17 @@
+title: Mapping Paradise
+-
+date: 2010
+-
+content: 
+The USA has by far the greatest number of places called Paradise. The first voyagers to the Americas really believed they had found Eden; Columbus called it "the terrestrial paradise." But the founders of the US took that idea in a new direction: paradise as a place to be simultaneously discovered and made. 
+
+In the long wake of utopias and in full view of continued war and the ruins of the economic crisis, ‘Mapping Paradise’ is an interactive installation of the places in the USA called paradise. 
+
+<br />
+
+<b>role:</b> Interaction Design. 
+
+<b>skills:</b> Contextual inquiry, Wireframing. 
+
+-
+keywords: Art project to recreate America’s ‘paradise’ history.

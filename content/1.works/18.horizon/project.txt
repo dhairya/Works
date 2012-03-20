@@ -1,0 +1,26 @@
+title: Horizon
+-
+date: 2008
+-
+content: 
+Humans express themselves best through intuitive hand gestures, Horizons is an iMEMS based wearable hand gesture device. It can interface with multimedia applications, FPS games, file explorers with programmable hand gestures mapped to associated actions. Horizon offers a GUI which can be used to calibrate and program custom hand gestures. 
+
+<br />
+
+<b>role:</b> Conceptualization, User Experience, Software Development. 
+
+<b>skills:</b> Authored device drivers, Pattern recognition algorithms, Visual Studio, C++. 
+
+<br />
+
+<b>+</b> Project was funded by VJTI and won numerous awards at the National Technical Fest. 
+
+<b>+</b> Paper presented on the custom pattern recognition algorithm for gesture recognition. 
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/vzwzpdmThjk?rel=0" title="FoodGenie"><img src="@root_path/public/images/v5.jpg" width="90" /></a>
+-
+keywords: A hand gesture glove for desktop interaction.

@@ -1,0 +1,27 @@
+title: Lokshahi
+-
+date: 2008-2009
+-
+content: 
+Lokshahi facilitates citizens to lodge complains, monitor complain status and prioritize community complaints using SMS on low-cost mobile devices. The platform is designed for rural citizens and works in vernacular languages. The government officials and citizens can also access the platform on the web. An appreciation-based incentive mechanism is built-in for well-performing government officials. 
+
+<br />
+
+<b>role:</b> Conceptualization, User Research, Interaction Design, Platform Architect, Software Development. 
+
+<b>skills:</b> Java – J2EE, WAS, DB/2, algorithms for rankings, frontend development. 
+
+<br />
+
+<b>+</b> Platform deployed in Solapur, India – a constituency with 200,000 rural citizens. 
+
+<b>+</b> Entire platform is open-sourced. 24 man-months effort. 
+
+<b>+</b> Won the highly competitive IBM The Great Mind Challenge 2009 award amongst 13,000 teams. 
+
+<br />
+
+<a href="http://sourceforge.net/projects/ppl2point0/" target="new">Project on SourceForge.</a>
+
+-
+keywords: An e+m-Governance venture for rural citizens in India.

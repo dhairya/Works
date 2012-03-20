@@ -1,0 +1,21 @@
+title: QRNavSys
+-
+date: 2009
+-
+content: 
+
+A QR code based urban information and indoor navigation system makes for an ideal alternative to GPS in developing countries like India where a sizable amount of cell phones are low-end camera equipped. QR-NavSys explores user scenarios and experience in a setting of Mumbai, India. 
+
+<br />
+
+<b>role:</b> Conceptualization, User Research. 
+
+<b>skills:</b> Story boarding. 
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/GWVDUQPkJCM?rel=0" title="QR NavSys"><img src="@root_path/public/images/v6.jpg" width="90" /></a>
+-
+keywords: Contextual urban information and navigation system using QR codes.

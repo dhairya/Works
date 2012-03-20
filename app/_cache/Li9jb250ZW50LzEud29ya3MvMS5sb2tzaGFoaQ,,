@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Lokshahi</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Lokshahi</a></p>
+				<p><em>2008-2009</em></p>
+				<p><em class="background">&ndash; An e+m-Governance venture for rural citizens in India.</em></p>
+				<br />
+				<p>Lokshahi facilitates citizens to lodge complains, monitor complain status and prioritize community complaints using SMS on low-cost mobile devices. The platform is designed for rural citizens and works in vernacular languages. The government officials and citizens can also access the platform on the web. An appreciation-based incentive mechanism is built-in for well-performing government officials.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User Research, Interaction Design, Platform Architect, Software Development.</p>
+
+<p><b>skills:</b> Java – J2EE, WAS, DB/2, algorithms for rankings, frontend development.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Platform deployed in Solapur, India – a constituency with 200,000 rural citizens.</p>
+
+<p><b>+</b> Entire platform is open-sourced. 24 man-months effort.</p>
+
+<p><b>+</b> Won the highly competitive IBM The Great Mind Challenge 2009 award amongst 13,000 teams.</p>
+
+<p><br /></p>
+
+<p><a href="http://sourceforge.net/projects/ppl2point0/" target="new">Project on SourceForge.</a></p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 292b8a44707d11228a67caf2b0e2c011 -->

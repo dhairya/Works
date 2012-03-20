@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Jellow</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Jellow</a></p>
+				<p><em>2009–2010</em></p>
+				<p><em class="background">&ndash; An emotional communication device for cerebral palsy kids.</em></p>
+				<br />
+				<p>Jellow is an attempt to bridge the gap in communication between those affected by cerebral palsy and those not. The basis of the product is an Emotional Language Protocol (elp) that works as its interface and is driven by four concurrently acting features - color, shape, motion and sound - corresponding to the sensory modes of the visual, the tactile and the aural.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Interaction Design, User Research, Hardware Development, Software Development.</p>
+
+<p><b>skills:</b> HTML5, iOS SDK, Android SDK, Flash, Created a homebrew 10” tablet in 2009, Wireframing.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Made three versions of the product: a USD250 custom built touch tablet, a Desktop app with a custom USD10 hardware accessory and an iPad app.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 34c407e983131702666d8e35aa41cabe -->

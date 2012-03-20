@@ -1,0 +1,31 @@
+title: ThinkerToys
+-
+date: 2011 
+-
+content: 
+<a href="http://dhairyadand.com/thinkertoys">Go to dedicated project page</a>
+
+<br />
+
+Millions of gadgets are discarded every year as post-upgrade eWaste. ThinkerToys creatively converts them into educational interactive toys for kids.
+
+It all started when I was in suburban Phnom Penh, landfills of eWaste stretching miles and kids who should be in school working there. I wanted to urgently address this situation, being a designer and an engineer, I started designing and building these toys. What started as small experiments is now growing into a series of toys.
+
+The design philosophy is to make modular toys which can be plug and played into eWaste directly without requiring any modification or fabrication. The components in the toys are chosen carefully that the final production cost is expected to be sub-$5.
+
+My goal, although insane is to convert all the eWaste on our planet into toys.
+
+<br />
+
+<b>role:</b> Conceptualization, User Research, Hardware and Software Development. 
+
+<b>skills:</b> Arduino, Sensors and Actuators. 
+
+<br />
+
+<b>+</b> Invited to showcase ThinkerToys at ICTD’2012 and TEDx Phnom Penh. 
+
+<b>+</b> Next Step: openTOYS – online community based 
+on the ideology of openinsights, opentools and openbusiness. 
+-
+keywords: Converting eWaste into educational fun toys. 

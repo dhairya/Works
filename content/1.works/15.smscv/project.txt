@@ -1,0 +1,15 @@
+title: SMS-CV
+-
+date: 2009
+-
+content: 
+The cell phone penetration in India is 87% as compared to the 8% of internet penetration. Users send a SMS with the email ID of their prospective employer to SMS-CV, and SMS-CV sends their CVs in an email to the employer. Thus enabling millions from the lower economic strata’s who live in urban areas and lack an internet connection.
+
+<br />
+
+<b>role:</b> Conceptualization, Software Development.
+
+<b>skills:</b> PHP, GSM programming.
+
+-
+keywords: Empowering careers for the net-deprived.

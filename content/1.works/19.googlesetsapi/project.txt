@@ -1,0 +1,19 @@
+title: Google Sets API
+-
+date: 2011
+-
+content: 
+Google Sets allows you to automatically create sets of items from a few examples. Sets identifies groups of related items on the web and uses that information to predict relationships between them. I wrote an API for Google Sets. 
+
+<br />
+
+<b>role:</b> Conceptualization, Software Development. 
+
+<b>skills:</b> Python, API Specs. 
+
+<br />
+
+<del><a href="http://dhairyadand.com/GoogleSets.zip" target="new">Download.</a></del> Google deprecated Sets.
+
+-
+keywords: Unofficial API for Google Sets

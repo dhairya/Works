@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Dhairya Dand's Portfolio Feed</title>
+  <subtitle>@profession</subtitle>
+  <link href="http://dhairyadand.com/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://dhairyadand.com/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2012-03-19T21:21:05+11:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Dhairya Dand</name>
+    <uri>http://dhairyadand.com</uri>
+  </author>
+
+  <id>tag:dhairyadand.com,2012:/feed/</id>
+  <rights>©2012 Dhairya Dand</rights>
+    <entry>
+   <title>Other</title>
+   <id>tag:dhairyadand.com,2012:/works/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>About | CV | Contact</title>
+   <id>tag:dhairyadand.com,2012:/works/about-cv-contact/</id>
+   <updated>2012-03-05T17:42:14+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/about-cv-contact/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/50.about-cv-contact/01.jpg" alt="01."/>
+
+          
+            <p>I like to create art, products and technologies that reimagine our relationship with the digital, address social issues - education, community development and often my own random explorations.</p>
+
+<p>I dream, 
+I am ever-curious, 
+I collect experiences.</p>
+
+<p>I am a designer and an engineer, I use these two view-points interchangeably to see and create the world through my pink glasses.</p>
+
+<p><i>joie de vivre!</i></p>
+
+<p><br /></p>
+
+<p><b>contact:</b> hello AT dhairyadand.com, 0065 8421 8301</p>
+
+<p><br /></p>
+
+<p><b>download:</b> <a href="http://dhairyadand.com/dhairya_dand_resume.pdf" target="new">CV</a>, <a href="http://dhairyadand.com/dhairya_dand_portfolio.pdf" target="new">Portfolio</a></p>
+
+<p><br /></p>
+
+<p><b>elsewhere:</b> <a href="http://linkedin.com/in/dhairyadand" target="new"><img src="./public/images/linkedin.ico" /></a>, <a href="http://twitter.com/3dee" target="new"><img src="./public/images/twitter.ico" /></a><!-- , <a href="http://www.facebook.com/dhairya" target="new"><img src="./public/images/facebook.ico" /></a>, <a href="http://picasaweb.google.com/dhairyadand" target="new"><img src="./public/images/picasa.ico" /></a>--></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>ThinkerToys</title>
+   <id>tag:dhairyadand.com,2012:/works/thinkertoys/</id>
+   <updated>2012-03-19T21:21:05+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/thinkertoys/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/30.thinkertoys/09.jpg" alt="09."/>
+  <img src="./content/1.works/30.thinkertoys/08.jpg" alt="08."/>
+  <img src="./content/1.works/30.thinkertoys/07.jpg" alt="07."/>
+  <img src="./content/1.works/30.thinkertoys/06.jpg" alt="06."/>
+  <img src="./content/1.works/30.thinkertoys/05.jpg" alt="05."/>
+  <img src="./content/1.works/30.thinkertoys/01.JPG" alt="01."/>
+  <img src="./content/1.works/30.thinkertoys/thinkertoys.jpg" alt="Thinkertoys."/>
+
+          
+            <p><a href="http://dhairyadand.com/thinkertoys">Go to dedicated project page</a></p>
+
+<p><br /></p>
+
+<p>Millions of gadgets are discarded every year as post-upgrade eWaste. ThinkerToys creatively converts them into educational interactive toys for kids.</p>
+
+<p>It all started when I was in suburban Phnom Penh, landfills of eWaste stretching miles and kids who should be in school working there. I wanted to urgently address this situation, being a designer and an engineer, I started designing and building these toys. What started as small experiments is now growing into a series of toys.</p>
+
+<p>The design philosophy is to make modular toys which can be plug and played into eWaste directly without requiring any modification or fabrication. The components in the toys are chosen carefully that the final production cost is expected to be sub-$5.</p>
+
+<p>My goal, although insane is to convert all the eWaste on our planet into toys.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User Research, Hardware and Software Development.</p>
+
+<p><b>skills:</b> Arduino, Sensors and Actuators.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Invited to showcase ThinkerToys at ICTD’2012 and TEDx Phnom Penh.</p>
+
+<p><b>+</b> Next Step: openTOYS – online community based 
+on the ideology of openinsights, opentools and openbusiness.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>inVisible</title>
+   <id>tag:dhairyadand.com,2012:/works/inVisible/</id>
+   <updated>2011-12-21T22:58:02+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/inVisible/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/29.inVisible/03.JPG" alt="03."/>
+  <img src="./content/1.works/29.inVisible/02.JPG" alt="02."/>
+  <img src="./content/1.works/29.inVisible/01.JPG" alt="01."/>
+
+          
+            <p>Fiber-optic cables have the property of letting light pass without distortion even when bent. inVisible uses this property to construct a fiber-optic mesh which renders the object underneath invisible.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Apparatus Development.</p>
+
+<p><b>skills:</b> Optics, Rapid prototyping.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/x8JduH1s0Cc?rel=0&#38;amp;hd=1" title="inVisible"><img src="./public/images/v1.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Coucou</title>
+   <id>tag:dhairyadand.com,2012:/works/coucou/</id>
+   <updated>2011-12-21T22:58:09+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/coucou/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/28.coucou/04.JPG" alt="04."/>
+  <img src="./content/1.works/28.coucou/03.JPG" alt="03."/>
+  <img src="./content/1.works/28.coucou/02.JPG" alt="02."/>
+  <img src="./content/1.works/28.coucou/01.JPG" alt="01."/>
+
+          
+            <p>Coucou is a handheld toy that has NFC and SMS modules built in. Kids meet in the real world, hug their Coucous – they are instantly made friends online – now they can continue their interactions online. Parents get notifications regarding their kid’s new friends and can access real-time location of their kids. Coucous come in different shapes and are designed for kids 6 to 10 years of age.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Interaction Design, Platform Architect, Software Development.</p>
+
+<p><b>skills:</b> Server deployment in Python, MySQL and PHP, iOS SDK, Wireframing, User surveys.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/cbhW3FNd_ps?rel=0&#38;amp;hd=1" title="Coucou v0.6"><img src="./public/images/v2.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Jellow</title>
+   <id>tag:dhairyadand.com,2012:/works/jellow/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/jellow/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/27.jellow/04.JPG" alt="04."/>
+  <img src="./content/1.works/27.jellow/03.JPG" alt="03."/>
+  <img src="./content/1.works/27.jellow/02.JPG" alt="02."/>
+  <img src="./content/1.works/27.jellow/01.JPG" alt="01."/>
+
+          
+            <p>Jellow is an attempt to bridge the gap in communication between those affected by cerebral palsy and those not. The basis of the product is an Emotional Language Protocol (elp) that works as its interface and is driven by four concurrently acting features - color, shape, motion and sound - corresponding to the sensory modes of the visual, the tactile and the aural.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Interaction Design, User Research, Hardware Development, Software Development.</p>
+
+<p><b>skills:</b> HTML5, iOS SDK, Android SDK, Flash, Created a homebrew 10” tablet in 2009, Wireframing.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Made three versions of the product: a USD250 custom built touch tablet, a Desktop app with a custom USD10 hardware accessory and an iPad app.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Lokshahi</title>
+   <id>tag:dhairyadand.com,2012:/works/lokshahi/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/lokshahi/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/26.lokshahi/03.JPG" alt="03."/>
+  <img src="./content/1.works/26.lokshahi/02.JPG" alt="02."/>
+  <img src="./content/1.works/26.lokshahi/01.JPG" alt="01."/>
+
+          
+            <p>Lokshahi facilitates citizens to lodge complains, monitor complain status and prioritize community complaints using SMS on low-cost mobile devices. The platform is designed for rural citizens and works in vernacular languages. The government officials and citizens can also access the platform on the web. An appreciation-based incentive mechanism is built-in for well-performing government officials.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User Research, Interaction Design, Platform Architect, Software Development.</p>
+
+<p><b>skills:</b> Java – J2EE, WAS, DB/2, algorithms for rankings, frontend development.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Platform deployed in Solapur, India – a constituency with 200,000 rural citizens.</p>
+
+<p><b>+</b> Entire platform is open-sourced. 24 man-months effort.</p>
+
+<p><b>+</b> Won the highly competitive IBM The Great Mind Challenge 2009 award amongst 13,000 teams.</p>
+
+<p><br /></p>
+
+<p><a href="http://sourceforge.net/projects/ppl2point0/" target="new">Project on SourceForge.</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>EmoTweet</title>
+   <id>tag:dhairyadand.com,2012:/works/emotweet/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/emotweet/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/25.emotweet/02.JPG" alt="02."/>
+  <img src="./content/1.works/25.emotweet/01.JPG" alt="01."/>
+
+          
+            <p>EmoTweet sources live tweets, senses emotions and creatively visualizes them. A combination of six basic emotions- happiness, anger, fear, surprise, sadness, and disgust at various scales make up a final visualization of the tweet Textual emotion recognition is based on the lexicon of emotion-related words, where each word is associated with a vector of weights for each emotion type and by several simple heuristics (usage of upper cases, exclamation mark, emoticons etc.).</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Software Development, Visualizations.</p>
+
+<p><b>skills:</b> Processing, Synesketch API, Twitter API.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>tweet-a-fleur</title>
+   <id>tag:dhairyadand.com,2012:/works/tweetafleur/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/tweetafleur/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/24.tweetafleur/01.jpg" alt="01."/>
+
+          
+            <p>tweet-a-fleur is a real physical flower that sits on your desk. The flower senses the happiness quotient of the world by affectively analyzing real-time public twitter feeds. Based on the happy / sad state of the world - the flower physically blooms / droops.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Hardware and Software Development.</p>
+
+<p><b>skills:</b> Arduino, Shape-memory alloy, Processing, EmoTweet-core, Twitter API.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Lovotics</title>
+   <id>tag:dhairyadand.com,2012:/works/lovotics/</id>
+   <updated>2011-12-21T22:58:18+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/lovotics/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/23.lovotics/01.jpg" alt="01."/>
+
+          
+            <p>Lovotics is a new life-form which develops emotions towards humans with every subsequent interaction. It can identify humans, sense touch intensity and type, understand the emotional context of speech, is mobile, gives audio and light output and has memory of past interactions.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> System Integration, Hardware and Software Development.</p>
+
+<p><b>skills:</b> SoC development, programmatic audio analysis, Python.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/iq_USTBgeZY?rel=0&#38;amp;hd=1" title="Lovotics Episode 1"><img src="./public/images/v7.jpg" width="90" /></a> &#38;nbsp;<a class='video-colorbox' href="http://www.youtube.com/embed/m5LWB9K0VRY?rel=0&#38;amp;hd=1" title="Lovotics Episode 2"><img src="./public/images/v8.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>iFeel</title>
+   <id>tag:dhairyadand.com,2012:/works/ifeel/</id>
+   <updated>2011-12-21T22:58:26+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/ifeel/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/22.ifeel/01.jpg" alt="01."/>
+
+          
+            <p>We share this planet with billions of machines. Imagine if they had feelings - how they would make sense of the world. iFeel is a case study in form of a short-film of how would it be to lead a life of a smartphone.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User research, Direction.</p>
+
+<p><b>skills:</b> iOS SDK, Story boarding, Interviews, Video editing and production.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/5ZLFzJ2QfM0?rel=0&#38;amp;hd=1" title="iFeel"><img src="./public/images/v3.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>FoodGenie</title>
+   <id>tag:dhairyadand.com,2012:/works/foodgenie/</id>
+   <updated>2011-12-21T22:58:31+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/foodgenie/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/21.foodgenie/04.JPG" alt="04."/>
+  <img src="./content/1.works/21.foodgenie/03.JPG" alt="03."/>
+  <img src="./content/1.works/21.foodgenie/02.JPG" alt="02."/>
+  <img src="./content/1.works/21.foodgenie/01.JPG" alt="01."/>
+
+          
+            <p>FoodGenie is an iPhone app that gives everyone a chance to become a super chef and helps your neighbours in cooking. It helps ordinary people make extraordinary dishes with what you have in the fridge. When there is a really important ingredient missing, it helps you find that missing ingredient by encouraging sharing of ingredients between neighbors.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Service Design, Rapid Prototyping, Video Production</p>
+
+<p><b>skills:</b> Wireframing, Illustrator, iOS Mockups, Story boarding.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Highly acclaimed at the Global Service Jam 2011.</p>
+
+<p><b>+</b> Created in a 48 hour service design marathon.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/2dm__PHSvns?rel=0" title="FoodGenie"><img src="./public/images/v4.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Anuvada</title>
+   <id>tag:dhairyadand.com,2012:/works/anuvada/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/anuvada/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/20.anuvada/01.jpg" alt="01."/>
+
+          
+            <p>Looking at translations into different languages for inspirations to name your next project / idea / venture? Frustrated with the translation sites since you have to select the target language from the drop down menu each time? 
+'Anuvada' - which means 'translate' in Sanskrit, translates your input to almost over 60 languages simultaneously.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Software Development.</p>
+
+<p><b>skills:</b> JavaScript, Google Translate API.</p>
+
+<p><br /></p>
+
+<p><del><a href="http://dhairyadand.com/anuvada" target="new">Access it here.</a></del> Google has deprecated the Translate API since Dec 2011.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Google Sets API</title>
+   <id>tag:dhairyadand.com,2012:/works/googlesetsapi/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/googlesetsapi/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/19.googlesetsapi/01.jpg" alt="01."/>
+
+          
+            <p>Google Sets allows you to automatically create sets of items from a few examples. Sets identifies groups of related items on the web and uses that information to predict relationships between them. I wrote an API for Google Sets.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Software Development.</p>
+
+<p><b>skills:</b> Python, API Specs.</p>
+
+<p><br /></p>
+
+<p><del><a href="http://dhairyadand.com/GoogleSets.zip" target="new">Download.</a></del> Google deprecated Sets.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Horizon</title>
+   <id>tag:dhairyadand.com,2012:/works/horizon/</id>
+   <updated>2011-12-21T22:58:36+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/horizon/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/18.horizon/02.JPG" alt="02."/>
+  <img src="./content/1.works/18.horizon/01.JPG" alt="01."/>
+
+          
+            <p>Humans express themselves best through intuitive hand gestures, Horizons is an iMEMS based wearable hand gesture device. It can interface with multimedia applications, FPS games, file explorers with programmable hand gestures mapped to associated actions. Horizon offers a GUI which can be used to calibrate and program custom hand gestures.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User Experience, Software Development.</p>
+
+<p><b>skills:</b> Authored device drivers, Pattern recognition algorithms, Visual Studio, C++.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Project was funded by VJTI and won numerous awards at the National Technical Fest.</p>
+
+<p><b>+</b> Paper presented on the custom pattern recognition algorithm for gesture recognition.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/vzwzpdmThjk?rel=0" title="FoodGenie"><img src="./public/images/v5.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Mapping Paradise</title>
+   <id>tag:dhairyadand.com,2012:/works/mappingparadise/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/mappingparadise/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/17.mappingparadise/01.jpg" alt="01."/>
+
+          
+            <p>The USA has by far the greatest number of places called Paradise. The first voyagers to the Americas really believed they had found Eden; Columbus called it "the terrestrial paradise." But the founders of the US took that idea in a new direction: paradise as a place to be simultaneously discovered and made.</p>
+
+<p>In the long wake of utopias and in full view of continued war and the ruins of the economic crisis, ‘Mapping Paradise’ is an interactive installation of the places in the USA called paradise.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Interaction Design.</p>
+
+<p><b>skills:</b> Contextual inquiry, Wireframing.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Tekla</title>
+   <id>tag:dhairyadand.com,2012:/works/tekla/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/tekla/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/16.tekla/02.jpg" alt="02."/>
+  <img src="./content/1.works/16.tekla/01.jpg" alt="01."/>
+
+          
+            <p>Autistic users are most accustomed to maneuver using the wheelchair joystick. Instead of providing a new hardware interface which would add to the learning curve and slow down the interactions, Tekla aims at making the Android device accessible as much as possible by using the wheelchair joysticks.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Research, Interaction Design.</p>
+
+<p><b>skills:</b> Android SDK.</p>
+
+<p><br /></p>
+
+<p><a href="https://market.android.com/details?id=ca.idi.tekla&#38;hl=en" target="new">Tekla App for Android</a> (Developed by IDRC)</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>SMS-CV</title>
+   <id>tag:dhairyadand.com,2012:/works/smscv/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/smscv/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/15.smscv/02.JPG" alt="02."/>
+  <img src="./content/1.works/15.smscv/01.JPG" alt="01."/>
+
+          
+            <p>The cell phone penetration in India is 87% as compared to the 8% of internet penetration. Users send a SMS with the email ID of their prospective employer to SMS-CV, and SMS-CV sends their CVs in an email to the employer. Thus enabling millions from the lower economic strata’s who live in urban areas and lack an internet connection.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Software Development.</p>
+
+<p><b>skills:</b> PHP, GSM programming.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Internet &#38; Democracy</title>
+   <id>tag:dhairyadand.com,2012:/works/internetdemocracy/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/internetdemocracy/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/14.internetdemocracy/01.JPG" alt="01."/>
+
+          
+            <p>This project is an initiative to examines how the Internet influences democratic norms and modes, including its impact on civil society, citizen media, government transparency and the rule of law. We scrape the Iranian blogosphere, translate and tokenize nouns and adjectives hence depicting emotions towards people, events and ideologies. I authored the Scriptgen GUI, and the Krippendorf's alpha reliability constant for textual data.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Research, Software Development.</p>
+
+<p><b>skills:</b> Ruby on Rails, R, Amazon Mechanical Turks API.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>D'square</title>
+   <id>tag:dhairyadand.com,2012:/works/dsquare/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/dsquare/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/13.dsquare/01.JPG" alt="01."/>
+
+          
+            <p>D’square is  a collaborative space for both synchronous and as well as asynchronous design learning. The same platform could be used to create problem solving topics with both the teacher to students, students to students and teachers to other teachers being able to interact collaboratively.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Interaction Design, Software Development.</p>
+
+<p><b>skills:</b> Interviews, Wireframing, PHP, MySQL, Wordpress-core.</p>
+
+<p><br /></p>
+
+<p><a href="http://www.d-source.net/ekalpa/" target="new">Access it here.</a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>QRNavSys</title>
+   <id>tag:dhairyadand.com,2012:/works/qrnavsys/</id>
+   <updated>2011-12-21T22:58:41+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/qrnavsys/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>A QR code based urban information and indoor navigation system makes for an ideal alternative to GPS in developing countries like India where a sizable amount of cell phones are low-end camera equipped. QR-NavSys explores user scenarios and experience in a setting of Mumbai, India.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User Research.</p>
+
+<p><b>skills:</b> Story boarding.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/GWVDUQPkJCM?rel=0" title="QR NavSys"><img src="./public/images/v6.jpg" width="90" /></a></p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>MapEditor</title>
+   <id>tag:dhairyadand.com,2012:/works/mapeditor/</id>
+   <updated>2011-12-21T22:44:53+11:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://dhairyadand.com/works/mapeditor/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/1.works/11.mapeditor/01.jpg" alt="01."/>
+
+          
+            <p>Map Editor allows people to visually draw overlays over Google Maps and embed them on any web page. Initially the functionality was limited to Google Maps but has since been expanded to 5 other map service providers through an abstracted API.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> API design and specs.</p>
+
+<p><b>skills:</b> REST, PHP.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+
+</feed>
+<!-- Stacey(2.3.0): a1e29babc65fb9c38ec5895faa75b0dc -->

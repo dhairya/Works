@@ -1,0 +1,20 @@
+title: Coucou
+-
+date: 2011
+-
+content: 
+Coucou is a handheld toy that has NFC and SMS modules built in. Kids meet in the real world, hug their Coucous – they are instantly made friends online – now they can continue their interactions online. Parents get notifications regarding their kid’s new friends and can access real-time location of their kids. Coucous come in different shapes and are designed for kids 6 to 10 years of age. 
+
+<br />
+
+<b>role:</b> Conceptualization, Interaction Design, Platform Architect, Software Development. 
+
+<b>skills:</b> Server deployment in Python, MySQL and PHP, iOS SDK, Wireframing, User surveys.
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/cbhW3FNd_ps?rel=0&amp;hd=1" title="Coucou v0.6"><img src="@root_path/public/images/v2.jpg" width="90" /></a>
+-
+keywords: A safe social networking toy for kids to make online friends in the physical world.

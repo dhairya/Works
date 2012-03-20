@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Horizon</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Horizon</a></p>
+				<p><em>2008</em></p>
+				<p><em class="background">&ndash; A hand gesture glove for desktop interaction.</em></p>
+				<br />
+				<p>Humans express themselves best through intuitive hand gestures, Horizons is an iMEMS based wearable hand gesture device. It can interface with multimedia applications, FPS games, file explorers with programmable hand gestures mapped to associated actions. Horizon offers a GUI which can be used to calibrate and program custom hand gestures.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User Experience, Software Development.</p>
+
+<p><b>skills:</b> Authored device drivers, Pattern recognition algorithms, Visual Studio, C++.</p>
+
+<p><br /></p>
+
+<p><b>+</b> Project was funded by VJTI and won numerous awards at the National Technical Fest.</p>
+
+<p><b>+</b> Paper presented on the custom pattern recognition algorithm for gesture recognition.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 292b8a44707d11228a67caf2b0e2c011 -->

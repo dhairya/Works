@@ -1,0 +1,14 @@
+title: EmoTweet
+-
+date: 2008
+-
+content: 
+EmoTweet sources live tweets, senses emotions and creatively visualizes them. A combination of six basic emotions- happiness, anger, fear, surprise, sadness, and disgust at various scales make up a final visualization of the tweet Textual emotion recognition is based on the lexicon of emotion-related words, where each word is associated with a vector of weights for each emotion type and by several simple heuristics (usage of upper cases, exclamation mark, emoticons etc.). 
+
+<br />
+
+<b>role:</b> Conceptualization, Software Development, Visualizations. 
+
+<b>skills:</b> Processing, Synesketch API, Twitter API.
+-
+keywords: Affective analysis and visualization of tweets.

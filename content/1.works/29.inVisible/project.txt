@@ -1,0 +1,21 @@
+title: inVisible
+-
+date: 2011
+-
+content: 
+Fiber-optic cables have the property of letting light pass without distortion even when bent. inVisible uses this property to construct a fiber-optic mesh which renders the object underneath invisible. 
+
+<br />
+
+<b>role:</b> Conceptualization, Apparatus Development. 
+
+<b>skills:</b> Optics, Rapid prototyping. 
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/x8JduH1s0Cc?rel=0&amp;hd=1" title="inVisible"><img src="@root_path/public/images/v1.jpg" width="90" /></a>
+
+-
+keywords: Experiments with fiber-optic invisibility.

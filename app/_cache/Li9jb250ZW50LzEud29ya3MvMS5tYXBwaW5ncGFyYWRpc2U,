@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Mapping Paradise</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Mapping Paradise</a></p>
+				<p><em>2010</em></p>
+				<p><em class="background">&ndash; Art project to recreate America’s ‘paradise’ history.</em></p>
+				<br />
+				<p>The USA has by far the greatest number of places called Paradise. The first voyagers to the Americas really believed they had found Eden; Columbus called it "the terrestrial paradise." But the founders of the US took that idea in a new direction: paradise as a place to be simultaneously discovered and made.</p>
+
+<p>In the long wake of utopias and in full view of continued war and the ruins of the economic crisis, ‘Mapping Paradise’ is an interactive installation of the places in the USA called paradise.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Interaction Design.</p>
+
+<p><b>skills:</b> Contextual inquiry, Wireframing.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): bcff425d933596fae3e1db8a22f0be84 -->

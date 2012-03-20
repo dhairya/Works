@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>About | CV | Contact</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">About | CV | Contact</a></p>
+				<p><em>1989-</em></p>
+				<p><em class="background">&ndash; Making humans super.</em></p>
+				<br />
+				<p>I like to create art, products and technologies that reimagine our relationship with the digital, address social issues - education, community development and often my own random explorations.</p>
+
+<p>I dream, 
+I am ever-curious, 
+I collect experiences.</p>
+
+<p>I am a designer and an engineer, I use these two view-points interchangeably to see and create the world through my pink glasses.</p>
+
+<p><i>joie de vivre!</i></p>
+
+<p><br /></p>
+
+<p><b>contact:</b> hello AT dhairyadand.com, 0065 8421 8301</p>
+
+<p><br /></p>
+
+<p><b>download:</b> <a href="http://dhairyadand.com/dhairya_dand_CV.pdf" target="new">CV</a>, <a href="http://dhairyadand.com/dhairya_dand_portfolio.pdf" target="new">Portfolio</a></p>
+
+<p><br /></p>
+
+<p><b>elsewhere:</b> <a href="http://linkedin.com/in/dhairyadand" target="new"><img src="./public/images/linkedin.ico" /></a>, <a href="http://www.facebook.com/dhairya" target="new"><img src="./public/images/facebook.ico" /></a>, <a href="http://twitter.com/3dee" target="new"><img src="./public/images/twitter.ico" /></a>, <a href="http://picasaweb.google.com/dhairyadand" target="new"><img src="./public/images/picasa.ico" /></a></p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): c6dcb3fae4cd6736fe845c7bb65f465b -->

@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>iFeel</title>
+		<link rel="shortcut icon" href="../../public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="../../?/feed/">
+		<link rel="stylesheet" href="../../public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="../../public/docs/css/colorbox.css" />
+		<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="../../public/docs/js/jquery.colorbox.js"></script>
+		
+		<script>
+
+			$(document).ready(function(){
+
+ 				    					$(".images-colorbox").colorbox({rel:'image-colorbox'});
+   				 
+			   
+			     					$(".video-colorbox").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+				
+	
+				});
+
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="../../">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col two">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<br />
+				<p><a href="../../">iFeel</a></p>
+				<p><em>2011</em></p>
+				<p><em class="background">&ndash; What if smartphones had feelings?</em></p>
+				<br />
+				<p>We share this planet with billions of machines. Imagine if they had feelings - how they would make sense of the world. iFeel is a case study in form of a short-film of how would it be to lead a life of a smartphone.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, User research, Direction.</p>
+
+<p><b>skills:</b> iOS SDK, Story boarding, Interviews, Video editing and production.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/5ZLFzJ2QfM0?rel=0&amp;hd=1" title="iFeel"><img src="../../public/images/v3.jpg" width="90" /></a></p>
+
+				<br />
+				<div id="media">
+      <p><b>images:</b></p>
+<a class="images-colorbox" href="../../content/1.works/22.ifeel/01.jpg" title="Visual language for six basic emotions."><img src="../../content/1.works/22.ifeel/01.jpg" alt="iFeel" width="80px" /></a>
+
+  
+  
+  
+  
+  
+
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2012 <a class="atom-rss" href="../../feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 6f1f3fb29e6949f312e58a6000500838 -->

@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Lovotics</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Lovotics</a></p>
+				<p><em>2011</em></p>
+				<p><em class="background">&ndash; A new artificial life-form to enhance human-robot love.</em></p>
+				<br />
+				<p>Lovotics is a new life-form which develops emotions towards humans with every subsequent interaction. It can identify humans, sense touch intensity and type, understand the emotional context of speech, is mobile, gives audio and light output and has memory of past interactions.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> System Integration, Hardware and Software Development.</p>
+
+<p><b>skills:</b> SoC development, programmatic audio analysis, Python.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 292b8a44707d11228a67caf2b0e2c011 -->

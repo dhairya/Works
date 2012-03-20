@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>EmoTweet</title>
+		<link rel="shortcut icon" href="../public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="../?/feed/">
+		<link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="../public/docs/css/colorbox.css" />
+		<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="../public/docs/js/jquery.colorbox.js"></script>
+		
+		<script>
+
+			$(document).ready(function(){
+
+ 				    					$(".images-colorbox").colorbox({rel:'image-colorbox'});
+   				 
+			   
+			     
+	
+				});
+
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="../">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col two">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<br />
+				<p><a href="../">EmoTweet</a></p>
+				<p><em>2008</em></p>
+				<p><em class="background">&ndash; Affective analysis and visualization of tweets.</em></p>
+				<br />
+				<p>EmoTweet sources live tweets, senses emotions and creatively visualizes them. A combination of six basic emotions- happiness, anger, fear, surprise, sadness, and disgust at various scales make up a final visualization of the tweet Textual emotion recognition is based on the lexicon of emotion-related words, where each word is associated with a vector of weights for each emotion type and by several simple heuristics (usage of upper cases, exclamation mark, emoticons etc.).</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Software Development, Visualizations.</p>
+
+<p><b>skills:</b> Processing, Synesketch API, Twitter API.</p>
+
+				<br />
+				<div id="media">
+      <p><b>images:</b></p>
+<a class="images-colorbox" href="../content/1.works/25.emotweet/02.JPG" title="Vizualizing the emotions of a tweet."><img src="../content/1.works/25.emotweet/02.JPG" alt="EmoTweet" width="80px" /></a>
+<a class="images-colorbox" href="../content/1.works/25.emotweet/01.JPG" title="Six basic emotions."><img src="../content/1.works/25.emotweet/01.JPG" alt="EmoTweet" width="80px" /></a>
+
+  
+  
+  
+  
+  
+
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2012 <a class="atom-rss" href="../feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): a1e29babc65fb9c38ec5895faa75b0dc -->

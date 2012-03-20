@@ -1,0 +1,18 @@
+title: Jellow
+-
+date: 2009–2010
+-
+content: 
+Jellow is an attempt to bridge the gap in communication between those affected by cerebral palsy and those not. The basis of the product is an Emotional Language Protocol (elp) that works as its interface and is driven by four concurrently acting features - color, shape, motion and sound - corresponding to the sensory modes of the visual, the tactile and the aural. 
+
+<br />
+
+<b>role:</b> Interaction Design, User Research, Hardware Development, Software Development. 
+
+<b>skills:</b> HTML5, iOS SDK, Android SDK, Flash, Created a homebrew 10” tablet in 2009, Wireframing. 
+
+<br />
+
+<b>+</b> Made three versions of the product: a USD250 custom built touch tablet, a Desktop app with a custom USD10 hardware accessory and an iPad app. 
+-
+keywords: An emotional communication device for cerebral palsy kids.

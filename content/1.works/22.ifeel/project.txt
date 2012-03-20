@@ -1,0 +1,20 @@
+title: iFeel
+-
+date: 2011
+-
+content: 
+We share this planet with billions of machines. Imagine if they had feelings - how they would make sense of the world. iFeel is a case study in form of a short-film of how would it be to lead a life of a smartphone. 
+
+<br />
+
+<b>role:</b> Conceptualization, User research, Direction. 
+
+<b>skills:</b> iOS SDK, Story boarding, Interviews, Video editing and production. 
+
+<br />
+
+<b>videos:</b>
+
+<a class='video-colorbox' href="http://www.youtube.com/embed/5ZLFzJ2QfM0?rel=0&amp;hd=1" title="iFeel"><img src="@root_path/public/images/v3.jpg" width="90" /></a>
+-
+keywords: What if smartphones had feelings?

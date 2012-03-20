@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Google Sets API</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Google Sets API</a></p>
+				<p><em>2011</em></p>
+				<p><em class="background">&ndash; Unofficial API for Google Sets</em></p>
+				<br />
+				<p>Google Sets allows you to automatically create sets of items from a few examples. Sets identifies groups of related items on the web and uses that information to predict relationships between them. I wrote an API for Google Sets.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Software Development.</p>
+
+<p><b>skills:</b> Python, API Specs.</p>
+
+<p><br /></p>
+
+<p><del><a href="http://dhairyadand.com/GoogleSets.zip" target="new">Download.</a></del> Google deprecated Sets.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): a300dbf517046a5bc7a75d0b57d8bfcd -->

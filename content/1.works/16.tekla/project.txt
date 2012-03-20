@@ -1,0 +1,19 @@
+title: Tekla
+-
+date: 2009
+-
+content: 
+Autistic users are most accustomed to maneuver using the wheelchair joystick. Instead of providing a new hardware interface which would add to the learning curve and slow down the interactions, Tekla aims at making the Android device accessible as much as possible by using the wheelchair joysticks. 
+
+<br />
+
+<b>role:</b> Research, Interaction Design. 
+
+<b>skills:</b> Android SDK.
+
+<br />
+
+<a href="https://market.android.com/details?id=ca.idi.tekla&hl=en" target="new">Tekla App for Android</a> (Developed by IDRC)
+
+-
+keywords: Enabling smartphone access through wheelchair controls. 

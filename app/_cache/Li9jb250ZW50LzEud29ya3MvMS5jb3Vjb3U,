@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Coucou</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Coucou</a></p>
+				<p><em>2011</em></p>
+				<p><em class="background">&ndash; A safe social networking toy for kids to make online friends in the physical world.</em></p>
+				<br />
+				<p>Coucou is a handheld toy that has NFC and SMS modules built in. Kids meet in the real world, hug their Coucous – they are instantly made friends online – now they can continue their interactions online. Parents get notifications regarding their kid’s new friends and can access real-time location of their kids. Coucous come in different shapes and are designed for kids 6 to 10 years of age.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Interaction Design, Platform Architect, Software Development.</p>
+
+<p><b>skills:</b> Server deployment in Python, MySQL and PHP, iOS SDK, Wireframing, User surveys.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): ee17bc1e15aecbd06eeb91619c5ac5fd -->

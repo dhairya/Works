@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>inVisible</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">inVisible</a></p>
+				<p><em>2011</em></p>
+				<p><em class="background">&ndash; Experiments with fiber-optic invisibility.</em></p>
+				<br />
+				<p>Fiber-optic cables have the property of letting light pass without distortion even when bent. inVisible uses this property to construct a fiber-optic mesh which renders the object underneath invisible.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Apparatus Development.</p>
+
+<p><b>skills:</b> Optics, Rapid prototyping.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 9de3ea599265b8a627eff13da5e41472 -->

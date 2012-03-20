@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Internet & Democracy</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col threehalf">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<p><a href="./">Internet & Democracy</a></p>
+				<p><em>2009</em></p>
+				<p><em class="background">&ndash; How internet affects democracy in the Iranian blogosphere.</em></p>
+				<br />
+				<p>This project is an initiative to examines how the Internet influences democratic norms and modes, including its impact on civil society, citizen media, government transparency and the rule of law. We scrape the Iranian blogosphere, translate and tokenize nouns and adjectives hence depicting emotions towards people, events and ideologies. I authored the Scriptgen GUI, and the Krippendorf's alpha reliability constant for textual data.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Research, Software Development.</p>
+
+<p><b>skills:</b> Ruby on Rails, R, Amazon Mechanical Turks API.</p>
+
+				<br />
+				<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Name 2011 <a class="atom-rss" href="./?/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 34c407e983131702666d8e35aa41cabe -->

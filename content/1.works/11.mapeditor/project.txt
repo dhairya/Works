@@ -1,0 +1,15 @@
+title: MapEditor
+-
+date: 2008
+-
+content: 
+Map Editor allows people to visually draw overlays over Google Maps and embed them on any web page. Initially the functionality was limited to Google Maps but has since been expanded to 5 other map service providers through an abstracted API.
+
+<br />
+
+<b>role:</b> API design and specs.
+
+<b>skills:</b> REST, PHP.
+
+-
+keywords: Visual editor to draw custom overlays on Google Maps.

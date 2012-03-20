@@ -1,0 +1,15 @@
+title: tweet-a-fleur
+-
+date: 2010 
+-
+content: 
+tweet-a-fleur is a real physical flower that sits on your desk. The flower senses the happiness quotient of the world by affectively analyzing real-time public twitter feeds. Based on the happy / sad state of the world - the flower physically blooms / droops. 
+
+<br />
+
+<b>role:</b> Conceptualization, Hardware and Software Development. 
+
+<b>skills:</b> Arduino, Shape-memory alloy, Processing, EmoTweet-core, Twitter API. 
+
+-
+keywords: A physical flower that embodies the happiness quotient of the world. 

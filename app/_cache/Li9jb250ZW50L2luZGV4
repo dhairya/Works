@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Dhairya Dand</title>
+		<link rel="shortcut icon" href="./public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="./?/feed/">
+		<link rel="stylesheet" href="./public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="./public/docs/css/colorbox.css" />
+		<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="./public/docs/js/jquery.colorbox.js"></script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="./">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="home col eleven">
+				     <p class="category col two"></p>
+    <ul class="project-list col eight">
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/about-cv-contact/"><img src="./content/1.works/50.about-cv-contact/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/about-cv-contact/">About | CV | Contact</a></p>
+    			<p><em>1989-</em></p>
+    			<p><em class="background">&ndash; Making humans super.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/thinkertoys/"><img src="./content/1.works/30.thinkertoys/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/thinkertoys/">ThinkerToys</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; Converting eWaste into educational fun toys.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/inVisible/"><img src="./content/1.works/29.inVisible/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/inVisible/">inVisible</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; Experiments with fiber-optic invisibility.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/coucou/"><img src="./content/1.works/28.coucou/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/coucou/">Coucou</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; A safe social networking toy for kids to make online friends in the physical world.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/jellow/"><img src="./content/1.works/27.jellow/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/jellow/">Jellow</a></p>
+    			<p><em>2009–2010</em></p>
+    			<p><em class="background">&ndash; An emotional communication device for cerebral palsy kids.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/lokshahi/"><img src="./content/1.works/26.lokshahi/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/lokshahi/">Lokshahi</a></p>
+    			<p><em>2008-2009</em></p>
+    			<p><em class="background">&ndash; An e+m-Governance venture for rural citizens in India.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/emotweet/"><img src="./content/1.works/25.emotweet/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/emotweet/">EmoTweet</a></p>
+    			<p><em>2008</em></p>
+    			<p><em class="background">&ndash; Affective analysis and visualization of tweets.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/tweetafleur/"><img src="./content/1.works/24.tweetafleur/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/tweetafleur/">tweet-a-fleur</a></p>
+    			<p><em>2010</em></p>
+    			<p><em class="background">&ndash; A physical flower that embodies the happiness quotient of the world.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/lovotics/"><img src="./content/1.works/23.lovotics/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/lovotics/">Lovotics</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; A new artificial life-form to enhance human-robot love.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/ifeel/"><img src="./content/1.works/22.ifeel/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/ifeel/">iFeel</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; What if smartphones had feelings?</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/foodgenie/"><img src="./content/1.works/21.foodgenie/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/foodgenie/">FoodGenie</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; Social cooking and food sharing app.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/anuvada/"><img src="./content/1.works/20.anuvada/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/anuvada/">Anuvada</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; Multi-tasking babel fish.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/googlesetsapi/"><img src="./content/1.works/19.googlesetsapi/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/googlesetsapi/">Google Sets API</a></p>
+    			<p><em>2011</em></p>
+    			<p><em class="background">&ndash; Unofficial API for Google Sets</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/horizon/"><img src="./content/1.works/18.horizon/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/horizon/">Horizon</a></p>
+    			<p><em>2008</em></p>
+    			<p><em class="background">&ndash; A hand gesture glove for desktop interaction.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/mappingparadise/"><img src="./content/1.works/17.mappingparadise/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/mappingparadise/">Mapping Paradise</a></p>
+    			<p><em>2010</em></p>
+    			<p><em class="background">&ndash; Art project to recreate America’s ‘paradise’ history.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/tekla/"><img src="./content/1.works/16.tekla/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/tekla/">Tekla</a></p>
+    			<p><em>2009</em></p>
+    			<p><em class="background">&ndash; Enabling smartphone access through wheelchair controls.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/smscv/"><img src="./content/1.works/15.smscv/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/smscv/">SMS-CV</a></p>
+    			<p><em>2009</em></p>
+    			<p><em class="background">&ndash; Empowering careers for the net-deprived.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/internetdemocracy/"><img src="./content/1.works/14.internetdemocracy/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/internetdemocracy/">Internet & Democracy</a></p>
+    			<p><em>2009</em></p>
+    			<p><em class="background">&ndash; How internet affects democracy in the Iranian blogosphere.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/dsquare/"><img src="./content/1.works/13.dsquare/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/dsquare/">D'square</a></p>
+    			<p><em>2010</em></p>
+    			<p><em class="background">&ndash; Collaborative learning space for designers in India.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/qrnavsys/"><img src="./content/1.works/12.qrnavsys/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/qrnavsys/">QRNavSys</a></p>
+    			<p><em>2009</em></p>
+    			<p><em class="background">&ndash; Contextual urban information and navigation system using QR codes.</em></p>
+    		</div>
+    	</li>
+        	<li>
+    		<div class="thumbnail col one">
+    			<a href="./works/mapeditor/"><img src="./content/1.works/11.mapeditor/thumb.jpg" alt=""></a>
+    		</div>
+    		<div class="summary col six">
+    			<p><a href="./works/mapeditor/">MapEditor</a></p>
+    			<p><em>2008</em></p>
+    			<p><em class="background">&ndash; Visual editor to draw custom overlays on Google Maps.</em></p>
+    		</div>
+    	</li>
+    
+    </ul>
+  
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2012 <a class="atom-rss" href="./feed/">RSS</a><br>
+				</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): a1e29babc65fb9c38ec5895faa75b0dc -->

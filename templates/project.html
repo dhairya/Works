@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>@title</title>
+		<link rel="shortcut icon" href="@root_path/public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
+		<link rel="stylesheet" href="@root_path/public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="@root_path/public/docs/css/colorbox.css" />
+		<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="@root_path/public/docs/js/jquery.colorbox.js"></script>
+		
+		<script>
+
+			$(document).ready(function(){
+
+ 				 if $images do
+   					$(".images-colorbox").colorbox({rel:'image-colorbox'});
+   				 endif
+			   
+			     if $html do
+					$(".video-colorbox").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+				endif
+	
+				});
+
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="@root_path">@name</a>
+			</h1>
+			<hr>
+			<div id="content" class="col two">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<br />
+				<p><a href="@root_path/">@title</a></p>
+				<p><em>@date</em></p>
+				<p><em class="background">&ndash; @keywords</em></p>
+				<br />
+				@content
+				<br />
+				:media
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights @name 2012 <a class="atom-rss" href="@root_path/feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>inVisible</title>
+		<link rel="shortcut icon" href="../../public/favicon.ico">
+		<link rel="alternate" type="application/atom+xml" href="../../?/feed/">
+		<link rel="stylesheet" href="../../public/docs/css/screen.css" type="text/css" media="screen"> 
+		<link rel="stylesheet" href="../../public/docs/css/colorbox.css" />
+		<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<script src="../../public/docs/js/jquery.colorbox.js"></script>
+		
+		<script>
+
+			$(document).ready(function(){
+
+ 				    					$(".images-colorbox").colorbox({rel:'image-colorbox'});
+   				 
+			   
+			     					$(".video-colorbox").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+				
+	
+				});
+
+		</script>
+	</head>
+	<body>
+		<div id="container">
+			<h1 class="col two">
+				<a href="../../">Dhairya Dand</a>
+			</h1>
+			<hr>
+			<div id="content" class="col two">
+			<p></p>
+			</div>
+			<div class="description col six">
+				<br />
+				<p><a href="../../">inVisible</a></p>
+				<p><em>2011</em></p>
+				<p><em class="background">&ndash; Experiments with fiber-optic invisibility.</em></p>
+				<br />
+				<p>Fiber-optic cables have the property of letting light pass without distortion even when bent. inVisible uses this property to construct a fiber-optic mesh which renders the object underneath invisible.</p>
+
+<p><br /></p>
+
+<p><b>role:</b> Conceptualization, Apparatus Development.</p>
+
+<p><b>skills:</b> Optics, Rapid prototyping.</p>
+
+<p><br /></p>
+
+<p><b>videos:</b></p>
+
+<p><a class='video-colorbox' href="http://www.youtube.com/embed/x8JduH1s0Cc?rel=0&amp;hd=1" title="inVisible"><img src="../../public/images/v1.jpg" width="90" /></a></p>
+
+				<br />
+				<div id="media">
+      <p><b>images:</b></p>
+<a class="images-colorbox" href="../../content/1.works/29.inVisible/03.JPG" title="Cross section of the nail is optically invisible."><img src="../../content/1.works/29.inVisible/03.JPG" alt="inVisible" width="80px" /></a>
+<a class="images-colorbox" href="../../content/1.works/29.inVisible/02.JPG" title="Apparatus : 265um multi-modal unjacketed fiberwith a metal screw embedded. "><img src="../../content/1.works/29.inVisible/02.JPG" alt="inVisible" width="80px" /></a>
+<a class="images-colorbox" href="../../content/1.works/29.inVisible/01.JPG" title="Apparatus."><img src="../../content/1.works/29.inVisible/01.JPG" alt="inVisible" width="80px" /></a>
+
+  
+  
+  
+  
+  
+
+</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyrights Dhairya Dand 2012 <a class="atom-rss" href="../../feed/">RSS</a><br>
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): a1e29babc65fb9c38ec5895faa75b0dc -->
